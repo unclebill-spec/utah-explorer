@@ -26,4 +26,14 @@ Utah was copied from the Idaho code base (Oct 4 2026), including Idaho's bath-co
 12. Tests (state from the folder): `perf/smoke.py BASE TAG`, `perf/test_homes.py`, `perf/test_perm.py`, `perf/test_p4.py`, `perf/loadtime.py URL`, `perf/sw_check.py URL...`; screenshots in `perf/shots/`.
 
 ## Known gaps (Oct 4 2026)
-(see the end of STATUS.md's newest entry; filled in at the end of the build)
+- Homes 311: 5+ ac 42 (14 counties; Salt Lake, Utah, Davis, Weber, Cache, Box Elder, Beaver have none in $300k-$600k), 1+ ac 159 (cap 160), near-hospital 110 (cap 110, PER_COUNTY 14;
+  ranking favors cheaper rural counties, so Salt Lake County has none and Utah County 4). Zillow detail pages: 45 skipped for condition.
+- Perm RN jobs 276 (Intermountain 63, U of U Health 92, Holy Cross 70, Lifepoint 20, HCA 31 from web search); 133 list pay. Intermountain's Workday search is system-wide, so most hits are CO/MT/NV/KS
+  and are dropped; Primary Children's, Huntsman and clinic jobs stay unmapped. Not collected: Uintah Basin, Moab Regional, Mountain West (Tooele), Central Valley, Gunnison, Kane County, San Juan,
+  Blue Mountain, Beaver Valley, Milford and other small hospitals (no reader written).
+- HCA MountainStar jobs come from web search (careers.hcahealthcare.com answers 403): 31 postings, a sample with no pay; some have no posted date.
+- Travel jobs 58 at 6 hospitals (most Vivian posts don't name the facility).
+- Border: UT gets 8 homes from the ID/WY maps and no RN jobs; ID gets 16 UT homes, WY 3; no UT jobs reach ID/WY (no UT hospital with postings within ~15 mi).
+- Ski: 15 areas (Eagle Point and Woodward Park City have no Wikipedia article); peaks 27 (Gilbert Peak dropped: no coordinates).
+- Shared app.js still says "about 19% list pay" in the perm panel (KY figure; the share pages use Utah's real share).
+- RN employment counts null (BLS limits); county history layer empty (no wiki_history.json).
