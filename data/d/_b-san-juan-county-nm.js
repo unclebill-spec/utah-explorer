@@ -1,0 +1,1 @@
+KYXD("_b-san-juan-county-nm",{"school":{"bnm-s590018800142":{"addr":"Clliford Ward Drive Hwy 64 West Bia Rd 5112","phone":"(928) 656-3555","grades":"KG–04","level":"Elementary","nces":"590018800142","levels":{},"bst":"NM","bmi":11.0,"bco":"San Juan County, NM","src":"NCES Common Core of Data 2024-2025 (school directory; no state grade on this map)"}}});

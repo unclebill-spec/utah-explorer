@@ -1,0 +1,1 @@
+KYXD("_b-white-pine-county-nv",{"school":{"bnv-s320051000254":{"addr":"120 Main Street","phone":"(775) 234-7333","grades":"03–06","level":"Elementary","nces":"320051000254","levels":{},"bst":"NV","bmi":4.1,"bco":"White Pine County, NV","src":"NCES Common Core of Data 2024-2025 (school directory; no state grade on this map)"}}});
