@@ -2,6 +2,7 @@
 
 Newest first. Times are ET.
 ## 2026-10-07
+- 17:19 ET: Listings fix: drop Roy 2122 W 5600 S (now listed for rent at $2,200/mo, no longer for sale; the refresh had shown the rent as its price) (2026-10-07)
 - 16:56 ET: Listings refresh: +3 new, -2 off-market, 15 price drops; 50+ ac 45 -> 47 (+2 Delta lots); cave 1; bargains refreshed (2 in); 282 perm RN jobs (2026-10-07)
 
 ## 2026-10-05
