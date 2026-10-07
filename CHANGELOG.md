@@ -1,6 +1,9 @@
 # Utah Explorer — change log
 
 Newest first. Times are ET.
+## 2026-10-07
+- 16:56 ET: Listings refresh: +3 new, -2 off-market, 15 price drops; 50+ ac 45 -> 47 (+2 Delta lots); cave 1; bargains refreshed (2 in); 282 perm RN jobs (2026-10-07)
+
 ## 2026-10-05
 - 23:13 ET: Add North Carolina to the state switcher (new North Carolina Explorer); shared Anna code: per-state wording + estimated-pay labels
 
