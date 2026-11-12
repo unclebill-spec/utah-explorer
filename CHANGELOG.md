@@ -1,6 +1,9 @@
 # Utah Explorer — change log
 
 Newest first. Times are ET.
+## 2026-11-12
+- 06:32 ET: Listings refresh r23: +0 new, -5 sold/off-market, 8 price drops, 8 price changes; bigland/cavefalls/perm refreshed (r23-2026-11-12)
+
 ## 2026-11-09
 - 17:31 ET: Listings refresh r22: +0 new, -4 sold/off-market, 6 price drops, 6 price changes; bigland/cavefalls/perm refreshed (r22-2026-11-09)
 
