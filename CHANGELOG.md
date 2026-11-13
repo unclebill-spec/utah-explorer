@@ -1,6 +1,9 @@
 # Utah Explorer — change log
 
 Newest first. Times are ET.
+## 2026-11-13
+- 16:00 ET: Add Houses and Towns layers: 8 no-land homes (4bd/2ba, under $350k, within 15 min of a hospital) and 8 townhomes, condos, and apartments (3bd/2ba, same price and drive rules). Existing 10-minute near-hospital layer is unchanged.
+
 ## 2026-11-12
 - 06:32 ET: Listings refresh r23: +0 new, -5 sold/off-market, 8 price drops, 8 price changes; bigland/cavefalls/perm refreshed (r23-2026-11-12)
 
