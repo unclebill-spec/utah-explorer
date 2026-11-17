@@ -1,6 +1,9 @@
 # Utah Explorer — change log
 
 Newest first. Times are ET.
+## 2026-11-17
+- 03:17 ET: Listings refresh r25: +0 new, -2 sold/off-market, 2 price drops, 2 price changes; bigland/cavefalls/perm refreshed (r25-2026-11-16)
+
 ## 2026-11-16
 - 11:25 ET: State switcher: add Nebraska, South Dakota, North Dakota
 
