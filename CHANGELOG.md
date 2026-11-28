@@ -1,6 +1,9 @@
 # Utah Explorer — change log
 
 Newest first. Times are ET.
+## 2026-11-28
+- 09:14 ET: Listings refresh r27: +0 new, -0 sold/off-market, 0 price drops, 0 price changes; bigland/cavefalls/perm refreshed (r27-2026-11-28)
+
 ## 2026-11-26
 - 23:35 ET: Restore 5 big-land listings dropped when Zillow detail pages 403'd
 - 23:34 ET: Listings refresh r26: +0 new, -14 sold/off-market, 7 price drops, 7 price changes; bigland/cavefalls/perm refreshed (r26-2026-11-26)
